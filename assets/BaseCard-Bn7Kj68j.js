@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as c,x as o}from"./index-DaM86vo5.js";const d={},r={class:"base-card"};function t(e,n){return c(),a("div",r,[o(e.$slots,"default",{},void 0)])}const f=s(d,[["render",t],["__scopeId","data-v-2d07d25d"]]);export{f as B};

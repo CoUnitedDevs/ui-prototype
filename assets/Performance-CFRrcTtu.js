@@ -1,0 +1,1 @@
+import{B as t}from"./BaseCard-Bn7Kj68j.js";import{c as r,h as o,f as s,o as n,b as a}from"./index-DaM86vo5.js";const l={class:"page"},_={__name:"Performance",setup(c){return(p,e)=>(n(),r("div",l,[o(t,null,{default:s(()=>[...e[0]||(e[0]=[a("h2",null,"Performance Analytics",-1),a("p",null,"Analyze top and bottom performing partners.",-1)])]),_:1})]))}};export{_ as default};
